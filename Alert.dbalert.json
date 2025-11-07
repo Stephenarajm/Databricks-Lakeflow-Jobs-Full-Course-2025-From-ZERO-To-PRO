@@ -18,7 +18,7 @@
     }
   },
   "schedule": {
-    "quartz_cron_schedule": "6 * * * * ?",
+    "quartz_cron_schedule": "6 0 9 * * ?",
     "timezone_id": "Asia/Kolkata"
   },
   "query_lines": [
